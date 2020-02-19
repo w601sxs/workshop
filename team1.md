@@ -1,1 +1,3 @@
-# Team 1
+---
+title: Team 1
+---
